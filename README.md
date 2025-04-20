@@ -43,9 +43,10 @@ You must survive by navigating the golden ball across a dynamic field of obstacl
 > Fail, and it **claims you**.
 
 ---
-
+Download the folder and run the okarun_balls.exe file to play the game.
+---
 ## 💡 Inspiration
 
-This is a skeletal version of the gameplay and concept. The project was created for Hacknite, showcasing our love for tight game loops, mystery mechanics, and fluid gameplay physics.
+This is a basic version of the gameplay and concept. The project was created for Hacknite, showcasing our love for tight game loops, mystery mechanics, and fluid gameplay physics.
 
 Stay tuned for more updates as development continues!
